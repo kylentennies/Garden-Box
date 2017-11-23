@@ -1,0 +1,7 @@
+c:\users\academypgh\source\repos\Gardening Functions\Gardening Functions\bin\Debug\Gardening Functions.exe.config
+c:\users\academypgh\source\repos\Gardening Functions\Gardening Functions\bin\Debug\Gardening Functions.exe
+c:\users\academypgh\source\repos\Gardening Functions\Gardening Functions\bin\Debug\Gardening Functions.pdb
+c:\users\academypgh\source\repos\Gardening Functions\Gardening Functions\obj\Debug\Gardening Functions.csproj.CoreCompileInputs.cache
+c:\users\academypgh\source\repos\Gardening Functions\Gardening Functions\obj\Debug\Gardening Functions.exe
+c:\users\academypgh\source\repos\Gardening Functions\Gardening Functions\obj\Debug\Gardening Functions.pdb
+c:\users\academypgh\source\repos\Gardening Functions\Gardening Functions\obj\Debug\Gardening Functions.csprojResolveAssemblyReference.cache
